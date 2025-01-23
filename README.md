@@ -22,7 +22,7 @@ This project is a URL shortening service developed using FastAPI. It works with 
    docker-compose up --build
    ```
 
-3. The application will be running at `http://localhost:8000`.
+3. The application will be running at `http://localhost:8000`
 
 ### Environment Variables
 
